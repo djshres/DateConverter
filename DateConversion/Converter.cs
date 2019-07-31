@@ -354,6 +354,75 @@ namespace DateConversion
             return NepToEng(dateTime.Year, dateTime.Month, dateTime.Day);
         }
 
+        public static DateTime NepToEng(string dateTime)
+        {
+            if (dateTime == null) return DateTime.Now;
+            var dt = dateTime.Split(' ');
+            var date = dt[0].Split('/');
+            if (date.Length != 3) return DateTime.Now;
+
+
+            int year;
+            int month;
+            int day;
+
+            if (!int.TryParse(date[0], out year)) return DateTime.Now;
+
+            if (!int.TryParse(date[1], out month)) return DateTime.Now;
+
+            if (!int.TryParse(date[2], out day)) return DateTime.Now;
+
+
+            return NepToEng(year, month, day);
+        }
+
+        public static DateTime NepToEng(string dateTime,string format)
+        {
+            if (format == "yyyy/mm/dd")
+            {
+                if (dateTime == null) return DateTime.Now;
+                var dt = dateTime.Split(' ');
+                var date = dt[0].Split('/');
+                if (date.Length != 3) return DateTime.Now;
+
+
+                int year;
+                int month;
+                int day;
+
+                if (!int.TryParse(date[0], out year)) return DateTime.Now;
+
+                if (!int.TryParse(date[1], out month)) return DateTime.Now;
+
+                if (!int.TryParse(date[2], out day)) return DateTime.Now;
+
+
+                return NepToEng(year, month, day);
+            }
+            if(format == "dd/mm/yyyy")
+            {
+                if (dateTime == null) return DateTime.Now;
+                var dt = dateTime.Split(' ');
+                var date = dt[0].Split('/');
+                if (date.Length != 3) return DateTime.Now;
+
+
+                int year;
+                int month;
+                int day;
+
+                if (!int.TryParse(date[0], out day)) return DateTime.Now;
+
+                if (!int.TryParse(date[1], out month)) return DateTime.Now;
+
+                if (!int.TryParse(date[2], out year)) return DateTime.Now;
+
+
+                return NepToEng(year, month, day);
+            }
+            return DateTime.Now;
+        }
+
         public static DateTime NepToEng(int yy, int mm, int dd)
         {
             if (bs == null) InitializeData();
