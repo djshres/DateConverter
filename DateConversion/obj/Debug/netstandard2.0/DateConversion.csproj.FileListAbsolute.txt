@@ -1,0 +1,9 @@
+C:\Users\crossover\source\repos\DateConversion\DateConversion\bin\Debug\netstandard2.0\DateConversion.deps.json
+C:\Users\crossover\source\repos\DateConversion\DateConversion\bin\Debug\netstandard2.0\DateConversion.dll
+C:\Users\crossover\source\repos\DateConversion\DateConversion\bin\Debug\netstandard2.0\DateConversion.pdb
+C:\Users\crossover\source\repos\DateConversion\DateConversion\obj\Debug\netstandard2.0\DateConversion.csprojAssemblyReference.cache
+C:\Users\crossover\source\repos\DateConversion\DateConversion\obj\Debug\netstandard2.0\DateConversion.csproj.CoreCompileInputs.cache
+C:\Users\crossover\source\repos\DateConversion\DateConversion\obj\Debug\netstandard2.0\DateConversion.AssemblyInfoInputs.cache
+C:\Users\crossover\source\repos\DateConversion\DateConversion\obj\Debug\netstandard2.0\DateConversion.AssemblyInfo.cs
+C:\Users\crossover\source\repos\DateConversion\DateConversion\obj\Debug\netstandard2.0\DateConversion.dll
+C:\Users\crossover\source\repos\DateConversion\DateConversion\obj\Debug\netstandard2.0\DateConversion.pdb

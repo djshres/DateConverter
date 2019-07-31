@@ -1,0 +1,14 @@
+C:\Users\crossover\source\repos\DateConversion\Test\bin\Debug\netcoreapp2.2\Test.deps.json
+C:\Users\crossover\source\repos\DateConversion\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.json
+C:\Users\crossover\source\repos\DateConversion\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+C:\Users\crossover\source\repos\DateConversion\Test\bin\Debug\netcoreapp2.2\Test.dll
+C:\Users\crossover\source\repos\DateConversion\Test\bin\Debug\netcoreapp2.2\Test.pdb
+C:\Users\crossover\source\repos\DateConversion\Test\bin\Debug\netcoreapp2.2\DateConversion.dll
+C:\Users\crossover\source\repos\DateConversion\Test\bin\Debug\netcoreapp2.2\DateConversion.pdb
+C:\Users\crossover\source\repos\DateConversion\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+C:\Users\crossover\source\repos\DateConversion\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+C:\Users\crossover\source\repos\DateConversion\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+C:\Users\crossover\source\repos\DateConversion\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+C:\Users\crossover\source\repos\DateConversion\Test\obj\Debug\netcoreapp2.2\Test.csproj.CopyComplete
+C:\Users\crossover\source\repos\DateConversion\Test\obj\Debug\netcoreapp2.2\Test.dll
+C:\Users\crossover\source\repos\DateConversion\Test\obj\Debug\netcoreapp2.2\Test.pdb
